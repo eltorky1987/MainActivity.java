@@ -1,1 +1,2 @@
-# MainActivity.java
+# 📱 My First Java App
+مشروع بسيط لتعلم لغة الجافا وبرمجة تطبيقات الأندرويد.
